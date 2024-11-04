@@ -32,13 +32,7 @@ A passionate and driven Junior Full Stack Developer based in Germany, dedicated 
     <img src="https://github-readme-stats.vercel.app/api?username=Kuscheltiger01&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Kuscheltiger01">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuscheltiger01&layout=default&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://wakatime.com/@Kuscheltiger01"> 
-    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Wakatime Stats" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuscheltiger01&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
