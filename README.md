@@ -28,7 +28,6 @@ A passionate and driven Junior Full Stack Developer based in Germany, dedicated 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/Kuscheltiger01"><img src="https://github-readme-stats.vercel.app/api?username=Kuscheltiger01&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a>
   <a href="https://github.com/Kuscheltiger01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuscheltiger01&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a>
 </div>
 
