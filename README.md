@@ -28,10 +28,10 @@ A passionate and driven Junior Full Stack Developer based in Germany, dedicated 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Kuscheltiger01">
+  <a href="https://github.com/QubitTiger">
     <img src="https://github-readme-stats.vercel.app/api?username=QubitTiger&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/Kuscheltiger01">
+  <a href="https://github.com/QubitTiger">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=QubitTiger&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
